@@ -9,7 +9,7 @@ git clone https://github.com/vanthienpc/react-theme.git
 Install the dependencies:
 
 ```sh
-$ cd trustingsocial
+$ cd react-theme
 $ npm install
 ```
 
